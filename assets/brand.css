@@ -1,0 +1,8 @@
+:root {
+  --brand-primary: #FFFFFF;
+  --brand-accent: #BFD0FF;
+  --brand-bg: #153FB7;
+  --brand-text: #FFFFFF;
+  --font-heading: 'Outfit', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+  --font-body: 'Outfit', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+}
